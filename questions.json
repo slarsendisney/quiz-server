@@ -6,5 +6,9 @@
   {
     "question_text": "When was Bob Dylans birthday?",
     "answer_text": "Last week"
+  },
+  {
+    "question_text": "How many people live in London?",
+    "answer_text": "10 million"
   }
 ]
