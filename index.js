@@ -117,26 +117,28 @@ io.on("connection", function (socket) {
           person.responses[count] = false;
         }
       });
-      io.emit("action", {
-        type: "phase",
-        data: phase,
-      });
+
       io.emit("action", {
         type: "lobby",
         data: lobby,
+      });
+      io.emit("action", {
+        type: "phase",
+        data: phase,
       });
     }
     if (action.type === "server/submitMarks") {
       lobby = action.data;
       calcScores();
       phase = 0;
-      io.emit("action", {
-        type: "phase",
-        data: phase,
-      });
+
       io.emit("action", {
         type: "lobby",
         data: lobby,
+      });
+      io.emit("action", {
+        type: "phase",
+        data: phase,
       });
     }
     if (action.type === "server/join") {
