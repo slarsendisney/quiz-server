@@ -4,11 +4,39 @@
     "answer_text": "1815"
   },
   {
-    "question_text": "When was Bob Dylans birthday?",
-    "answer_text": "Last week"
+    "question_text": "What is the national speed limit?",
+    "answer_text": "70mph"
   },
   {
-    "question_text": "How many people live in London?",
-    "answer_text": "10 million"
+    "question_text": "How many kilograms in a stone?",
+    "answer_text": 6.35
+  },
+  {
+    "question_text": "What do you call a group of jellyfish?",
+    "answer_text": "Bloom or swarm"
+  },
+  {
+    "question_text": "What is the name of the tiger in the Jungle Book?",
+    "answer_text": "Shere Khan"
+  },
+  {
+    "question_text": "What is the gestation period of an elephant?",
+    "answer_text": "22 months"
+  },
+  {
+    "question_text": "What is national animal of Scotland?",
+    "answer_text": "Unicorn"
+  },
+  {
+    "question_text": "What is the national flower of Korea?",
+    "answer_text": "Hibiscus flower"
+  },
+  {
+    "question_text": "How many eyes does a caterpillar have?",
+    "answer_text": 6
+  },
+  {
+    "question_text": "Tell me a joke",
+    "answer_text": "😂"
   }
 ]
